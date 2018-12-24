@@ -1,0 +1,6 @@
+{
+    "name":"Mrjunhao/first",
+    "require": {
+        "workerman/workerman": "^3.5"
+    }
+}
